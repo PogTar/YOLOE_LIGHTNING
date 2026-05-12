@@ -1,2 +1,7 @@
 /generated_dataset
 /synthetic_dataset_for_eval
+/ceph_nvme
+/coco-2017
+/mavic
+/sam3
+/skadi_in_yolo_format
