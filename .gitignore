@@ -3,3 +3,5 @@
 /mobileclip_blt.ts
 /mobileclip2_b.ts
 /.venv
+/tensorboard_logs
+/lightning_logs
