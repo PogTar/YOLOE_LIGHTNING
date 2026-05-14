@@ -1,0 +1,6 @@
+outs:
+- md5: cc76a0fcfedc23148c3de45e41ccd232.dir
+  size: 11624807
+  nfiles: 1402
+  hash: md5
+  path: synthetic_dataset_for_eval

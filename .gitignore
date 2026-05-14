@@ -1,1 +1,5 @@
-/datasets
+/models
+/tensorboard_logs
+/mobileclip_blt.ts
+/.venv
+/.vscode
